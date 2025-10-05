@@ -30,6 +30,7 @@ PXNotifier’ı aşağıdaki komutla yükleyebilirsiniz:
 
 ```sh
 sh -c "$(curl -sL https://peditx.ir/projects/PXnotifier/pxnotifier)"
+```
 
 Veya doğrudan PeDitXOS Mağazası üzerinden yükleyin.
 
